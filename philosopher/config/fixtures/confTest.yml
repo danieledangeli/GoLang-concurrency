@@ -1,0 +1,11 @@
+philosopher_names:
+    - "Zeno"
+    - "Plato"
+    - "Epicurus"
+    - "Locke"
+    - "Aristotle"
+min_think_time_ms: 10
+max_think_time_ms: 50
+min_eat_time_ms: 200
+max_eat_time_ms: 400
+refresh_state_time_ms: 500
